@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "alx low level language"
+git push
