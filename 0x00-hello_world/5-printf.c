@@ -1,4 +1,4 @@
-#inclcude <stdio.h>
+#include <stdio.h>
 /**
  * main - this should be void
  * descripton - this should print using printf function
