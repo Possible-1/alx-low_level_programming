@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main: this should be void
+ * main - entry point is void
  * descripton: this should print using printf function
- * return: 0 (success)
+ * return: Always 0 (Success)
  */
 int main(void)
 {
