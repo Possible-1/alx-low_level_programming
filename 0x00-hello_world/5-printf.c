@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - this should be void
- * descripton - this should print using printf function
+ * main: this should be void
+ * descripton: this should print using printf function
  * return: 0 (success)
  */
 int main(void)
