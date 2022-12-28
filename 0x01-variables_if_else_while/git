@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "If, else and while function projects"
+git push
